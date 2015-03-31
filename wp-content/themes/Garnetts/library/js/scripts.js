@@ -129,6 +129,11 @@ $(window).resize(function() {
 
 $(function () {
 
+    function logoFade() {
+        $('.middle-image').addClass('show');
+    }
+    setTimeout(logoFade, 200);
+
     $('.mobile-menu-icon').click(function(){
         $('.mobile-menu-icon').toggleClass('stuck');
         $('body').toggleClass('overflow');

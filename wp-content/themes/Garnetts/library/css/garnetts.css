@@ -87,7 +87,12 @@ body.overflow {
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: 30%;
+	opacity: 0;
+	transition: .5s all;
+}
 
+.middle-image.show {
+	opacity: 1;
 }
 
 a.gallery, a.about, a.education, a.contact, .tk-museo-slab {
@@ -463,6 +468,10 @@ footer.footer {
 
 				.cirtificate, .grad-hat {
 				padding-bottom: 20px;
+				}
+
+				p.wd-info {
+				line-height: 24px;
 				}
 
 				.tech-area {

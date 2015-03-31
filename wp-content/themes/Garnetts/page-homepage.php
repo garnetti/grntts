@@ -116,11 +116,19 @@ Template Name: Homepage
                             </div>
 
                             <div class="about-info large-8 large-centered small-10 small-centered columns">
-                               <h1 class="tk-museo-slab"> Enim ad minim veniam, quis nostrud  exercitation ullamco laboris nisi ut aliquip ex ea commodo Duis aute irure dolor in reprehenderit in tur.</h1>
+                               <h1 class="tk-museo-slab"> My name is Ian Garnett, a visual front end designer aiming to achieve the impossible, through design. 
+
+                               </h1>
 
                                 <hr>
 
-                                <p class="tk-open-sans"> Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.  porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.</p>
+                                <p class="tk-open-sans">
+                                    I have a passion for all things web + design related, striving to solve design 
+                                    challenges in the best way possible. My process includes researching thoroughly
+                                    before the designing begins and allowing the creative process to evolve from sketches.
+                                    I aim to please, pushing myself to meet the needs of my clients and employers. 
+                                    I believe creativity is nothing without hard work.
+                                </p>
 
                             </div>
 
@@ -163,7 +171,7 @@ Template Name: Homepage
 
                                  <div class="large-8 medium-10 small-12 columns">
                                     <p class="nv-info tk-open-sans">Northern Virginia Community College</p>
-                                    <p class="wd-info tk-open-sans">Web Development Cirtificate</p>
+                                    <p class="wd-info tk-open-sans">Web Development Certificate</p>
                                     <p class="css-info tk-open-sans">HTML/CSS JavaScript & jQuery</p>
                                     <p class="yr1-info tk-open-sans">Jan-March 2013</p>
                                 </div>
