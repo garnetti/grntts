@@ -383,7 +383,7 @@ p.rest_text {
 	text-align: center;
 }
 
-.social-area {
+.social-area a {
 	display: inline-block;
 	color: #7bb1a1;
 	font-size: 55px;
@@ -437,6 +437,10 @@ footer.footer {
 }
 
 @media screen and (max-width:480px) {
+
+	.middle-image {
+	background-size: 50%;
+}
 		.social-wrap {
 			background: #f5f5f5;
 			text-align: center;
@@ -445,11 +449,12 @@ footer.footer {
 			  .social-area {
 				display: inline-block;
 				color: #7bb1a1;
-				font-size: 32px;
+				
 			}
 
-			.social-area, .sfi-social-linkedin, .fi-social-twitter, .fi-social-path, .fi-social-behance {
-				padding: 15px;
+			 .social-wrap, a, .fi-social-linkedin, .fi-social-twitter, .fi-social-path, .fi-social-behance {
+				padding: 5px;
+				font-size: 35px;
 			}
 
 

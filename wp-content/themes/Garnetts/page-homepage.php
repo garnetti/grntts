@@ -112,7 +112,7 @@ Template Name: Homepage
     				<div id="about" class="large-12 medium-12 columns">
 
                         <div class="about-cup large-4 large-centered small-6 small-centered columns">
-                            <img src="<?php echo get_template_directory_uri(); ?>/library/images/grntts_about-cup.jpg">
+                            <img src="<?php echo get_template_directory_uri(); ?>/library/images/about-image.png">
                             </div>
 
                             <div class="about-info large-8 large-centered small-10 small-centered columns">
@@ -123,11 +123,7 @@ Template Name: Homepage
                                 <hr>
 
                                 <p class="tk-open-sans">
-                                    I have a passion for all things web + design related, striving to solve design 
-                                    challenges in the best way possible. My process includes researching thoroughly
-                                    before the designing begins and allowing the creative process to evolve from sketches.
-                                    I aim to please, pushing myself to meet the needs of my clients and employers. 
-                                    I believe creativity is nothing without hard work.
+                                    I have a passion for all things web + design related, and thrive on solving design challenges by establishing a solid process and following it through to project completion. My design process includes researching and understanding the client's goals thoroughly before any designing begins, then working with the client while allowing the creative process to evolve from sketches. I aim to please--pushing myself to meet the needs of my clients and colleagues. I work at all times to exceed my clients' expectations.
                                 </p>
 
                             </div>
@@ -189,7 +185,7 @@ Template Name: Homepage
                                     <li>
                                         <p class="cre-suit tk-open-sans">Creative Suites</p>
                                         <div class="nice round progress alert large-12">
-                                            <span class="meter" style="width: 75%"></span>   
+                                            <span class="meter" style="width: 90%"></span>   
                                         </div>
                                     </li>
                                 </ul>
@@ -198,7 +194,7 @@ Template Name: Homepage
                                     <li>
                                         <p class="motion tk-open-sans">Motion</p>
                                         <div class="nice round progress alert large-12">
-                                            <span class="meter" style="width: 45%"></span>   
+                                            <span class="meter" style="width: 65%"></span>   
                                         </div>
                                     </li>
                                 </ul>
@@ -207,7 +203,7 @@ Template Name: Homepage
                                     <li>
                                         <p class="illust tk-open-sans">Illustrations</p>
                                         <div class="nice round progress alert large-12">
-                                            <span class="meter" style="width: 65%"></span>   
+                                            <span class="meter" style="width: 85%"></span>   
                                         </div>
                                     </li>
                                 </ul>
@@ -244,10 +240,10 @@ Template Name: Homepage
     				<div id="social" class="large-12 columns">
 
 						 <div class="social-area large-12 large-centered medium-12 small-12 columns">
-                            <i class="fi-social-linkedin large"></i>
-                            <i class="fi-social-twitter large"></i>
-                            <i class="fi-social-path large"></i>
-                            <i class="fi-social-behance large"></i>
+                            <a href="https://www.linkedin.com/hp/?dnr=igyVBcSflJQQr8xvipI8KcFfg-9ar8msrA9f" target="_blank"><i class="fi-social-linkedin large" ></i></a>
+                            <a href="https://twitter.com/garnettspixels" target="_blank"><i class="fi-social-twitter large"></i></a>
+                            <a href="https://www.pinterest.com/grntts/" target="_blank"><i class="fi-social-path large"></i></a>
+                            <a href="https://www.behance.net/grntts" target="_blank"><i class="fi-social-behance large"></i></a>
                             
                          </div>  
 
