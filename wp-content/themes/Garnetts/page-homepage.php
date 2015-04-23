@@ -240,7 +240,7 @@ Template Name: Homepage
     				<div id="social" class="large-12 columns">
 
 						 <div class="social-area large-12 large-centered medium-12 small-12 columns">
-                            <a href="https://www.linkedin.com/hp/?dnr=igyVBcSflJQQr8xvipI8KcFfg-9ar8msrA9f" target="_blank"><i class="fi-social-linkedin large" ></i></a>
+                            <a href="https://www.linkedin.com/pub/ian-garnett/54/985/a8b" target="_blank"><i class="fi-social-linkedin large" ></i></a>
                             <a href="https://twitter.com/garnettspixels" target="_blank"><i class="fi-social-twitter large"></i></a>
                             <a href="https://www.pinterest.com/grntts/" target="_blank"><i class="fi-social-path large"></i></a>
                             <a href="https://www.behance.net/grntts" target="_blank"><i class="fi-social-behance large"></i></a>

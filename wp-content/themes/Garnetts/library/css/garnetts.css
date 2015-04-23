@@ -389,7 +389,8 @@ p.rest_text {
 	font-size: 55px;
 }
 
-.social-area, .sfi-social-linkedin, .fi-social-twitter, .fi-social-path, .fi-social-behance {
+.social-area, .fi-social-twitter, .fi-social-path, .fi-social-behance, .fi-social-linkedin {
+	
 	padding: 30px;
 }
 
