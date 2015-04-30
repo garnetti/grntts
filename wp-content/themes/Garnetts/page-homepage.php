@@ -185,23 +185,23 @@ Template Name: Homepage
                                     <li>
                                         <p class="cre-suit tk-open-sans">Creative Suites</p>
                                         <div class="nice round progress alert large-12">
-                                            <span class="meter" style="width: 90%"></span>   
+                                            <span class="meter" style="width: 97%"></span>   
                                         </div>
                                     </li>
                                 </ul>
 
                                 <ul>
                                     <li>
-                                        <p class="motion tk-open-sans">Motion</p>
+                                        <p class="motion tk-open-sans">Omnigraffle</p>
                                         <div class="nice round progress alert large-12">
-                                            <span class="meter" style="width: 65%"></span>   
+                                            <span class="meter" style="width: 80%"></span>   
                                         </div>
                                     </li>
                                 </ul>
 
                                 <ul>
                                     <li>
-                                        <p class="illust tk-open-sans">Illustrations</p>
+                                        <p class="illust tk-open-sans">HTML5/CSS3</p>
                                         <div class="nice round progress alert large-12">
                                             <span class="meter" style="width: 85%"></span>   
                                         </div>
