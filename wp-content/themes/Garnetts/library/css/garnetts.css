@@ -186,7 +186,21 @@ a.gallery, a.about, a.education, a.contact, .tk-museo-slab {
 
 .gallery-image {
 	padding: 0px;
+
 	
+}
+
+.galleryicons {
+	position: absolute;
+	font-size: 30px;
+	color: #D3D3D3;
+	right: 0;
+	bottom: 0;
+	padding: 15px;
+	-ms-transform: rotate(45deg); /* IE 9 */
+    -webkit-transform: rotate(45deg); /* Chrome, Safari, Opera */
+    transform: rotate(45deg);
+
 }
 
 .gallery-image {

@@ -75,6 +75,8 @@ Template Name: Homepage
 
                 <div class="row">
 
+
+
                     <?php while( have_rows('gallery') ): the_row(); 
 
                         // vars
@@ -84,9 +86,14 @@ Template Name: Homepage
                         ?>
 
                         <div class="large-4 medium-6 small-12 columns gallery-image">
+                            
 
                             <?php if( $link ): ?>
+                                
                                 <a href="<?php echo $link; ?>" target="_blank">
+
+                                    <span><i class="galleryicons fi-x-circle large" ></i></span>
+
                             <?php endif; ?>
 
                                 <img src="<?php echo $image; ?>"/>
